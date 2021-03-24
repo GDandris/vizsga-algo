@@ -1,7 +1,6 @@
 package com.codecool.sum_of_odd_numbers;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class OddNumbers {
 
